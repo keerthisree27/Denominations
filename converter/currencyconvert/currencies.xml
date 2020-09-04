@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+    <currency name="USD">
+        <denomination value="25" color="silver" weightInGrams="5">Quarters</denomination>
+        <denomination value="10" color="silver" weightInGrams="3">Dimes</denomination>
+        <denomination value="100" color="green" weightInGrams="1">Dollar</denomination>
+        <denomination value="5" color="silver" weightInGrams="2" >Nickels</denomination>
+        <denomination value="1" color="copper" weightInGrams="2">Cents</denomination>
+    </currency>
+</currencies>
